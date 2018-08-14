@@ -1,7 +1,7 @@
 #import all the modules and functions that I will need for the program
 import xlrd   #import functions needed to retreive lists from excel
 import os.path
-assert os.path.isfile("/Users/Edon/Documents/IB/Computer science HL/Extended Essay/portlist.xlsx")
+assert os.path.isfile("portlist.xlsx")
 import socket
 import subprocess
 import sys
